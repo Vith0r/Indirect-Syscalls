@@ -56,7 +56,7 @@ As chamadas indiretas são executadas utilizando SSNs e endereços específicos 
 - **`NtWaitForSingleObject`**:  
    Aguarda a conclusão da execução da shellcode.
 
-## Virus Total 4/73
+## VirusTotal 4/73
 ![result](https://i.imgur.com/0SGTpMD.png)
 
 ## Vídeo de Demonstração
